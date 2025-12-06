@@ -16,9 +16,6 @@ htdocs/
 ├── senha.html
 └── outros arquivos do exercício
 
-markdown
-Copiar código
-
 ## Tecnologias Utilizadas
 - PHP
 - HTML
