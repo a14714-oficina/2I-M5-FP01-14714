@@ -11,7 +11,7 @@ htdocs/
 └── 2i-14714/
 └── m5-fp01/
 ├── form.html
-├── lista.php
+├── resultados.php
 
 ## Tecnologias Utilizadas
 - PHP
