@@ -25,7 +25,7 @@ htdocs/
 ## Como Executar
 1. Colocar a pasta `m5-fp01` dentro do diretório `htdocs` do XAMPP.  
 2. Iniciar o servidor Apache no XAMPP.  
-3. Aceder via browser a `http://localhost/2i-12345/m5-fp01/form.html` (ou aos outros formulários correspondentes).  
+3. Aceder via browser a `http://a14714-oficina.infinityfree.me/m5/form.html` (ou aos outros formulários correspondentes).  
 
 ## Autor
 - Nome do aluno: Carlos Alves  
