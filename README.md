@@ -11,10 +11,7 @@ htdocs/
 └── 2i-14714/
 └── m5-fp01/
 ├── form.html
-├── resultado.php
-├── idade.html
-├── senha.html
-└── outros arquivos do exercício
+├── lista.php
 
 ## Tecnologias Utilizadas
 - PHP
